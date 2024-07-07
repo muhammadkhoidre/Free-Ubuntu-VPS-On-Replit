@@ -1,4 +1,3 @@
-(https://dsc.gg/madkung) and open the ticket.
 # Ubuntu + Wine VPS Setup on Replit (PC Only)
 
 This repository contains a script to set up an Ubuntu VPS with Wine on Replit for running Windows applications. The script is designed for use on Replit and is intended for PC users.
