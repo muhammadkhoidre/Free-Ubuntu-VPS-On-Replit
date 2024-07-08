@@ -23,7 +23,7 @@ To download the python script, use the following `curl` command in the Replit sh
 curl -o main.py https://raw.githubusercontent.com/muhammadkhoidre/Free-Ubuntu-VPS-On-Replit/main/main.py
 ```
 
-### Step 3: Download the Nix Script
+### Step 4: Download the Nix Script
 
 To download the nix script, use the following `curl` command in the Replit shell:
 
