@@ -15,17 +15,23 @@ This repository contains a script to set up an Ubuntu VPS with Wine on Replit fo
 
 Open the Replit shell by clicking on the "Shell" tab at the bottom of the screen.
 
-### Step 3: Download the Script
+### Step 3: Download the Python Script
 
-To download the setup script, use the following `curl` command in the Replit shell:
+To download the python script, use the following `curl` command in the Replit shell:
 
 ```bash
-curl -o main.py https://cdn-madkung-media.vercel.app/ubuntu-vps.txt
+curl -o main.py https://raw.githubusercontent.com/muhammadkhoidre/Free-Ubuntu-VPS-On-Replit/main/main.py
 ```
 
-This command will download the script and save it as `main.py` in your Replit project. If a file named `main.py` already exists, it will be replaced with the new content.
+### Step 3: Download the Nix Script
 
-### Step 4: Execute the Script
+To download the nix script, use the following `curl` command in the Replit shell:
+
+```bash
+curl -o replit.nix https://raw.githubusercontent.com/muhammadkhoidre/Free-Ubuntu-VPS-On-Replit/main/replit.nix
+```
+
+### Step 5: Run the Script
 
 Run the script using the run button or the following command in the Replit shell:
 
@@ -33,7 +39,7 @@ Run the script using the run button or the following command in the Replit shell
 python3 main.py
 ```
 
-### Step 5: Follow On-Screen Instructions
+### Step 6: Follow On-Screen Instructions
 
 The website will guide you.
 
